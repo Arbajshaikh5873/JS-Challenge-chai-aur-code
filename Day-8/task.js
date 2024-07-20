@@ -60,7 +60,8 @@ fun() {
     console.log(`hello my name is ${this.namez} and i am ${this.age} year old`);   
  }
 }
-obj1.fun();
+obj1.fun()
+
 
 
 
